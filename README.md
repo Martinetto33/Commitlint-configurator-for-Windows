@@ -21,7 +21,7 @@ Enter the folder you cloned, then run:
 .\commitlint-setup.ps1
 ```
 
-You'll be prompted to specify the folder you want to create the .githooks folder and the whole setup.
+You'll be prompted to specify the folder you want to create the .githooks folder and the whole setup in.
 The script will also install the following dependencies (if not already present):
 * Scoop (a package manager for Windows)
 * Node.js (for commitlint package)
